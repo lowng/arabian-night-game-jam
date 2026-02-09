@@ -1,8 +1,5 @@
 # arabian-night-game-jam
-This repository is created to register for the Arabian Night game jam. The game development will begin once the jam officially starts.
-# Arabian Night – Game Jam Registration
-
-This repository is created for game jam registration purposes only.
+This repository is for our participation in a game jam with the theme Arabian Night.
 
 ## Theme
 Arabian Night
@@ -11,4 +8,4 @@ Arabian Night
 The game has not been started yet. Development will begin after the jam starts.
 
 ## Notes
-This is my first game jam.
+This is our first game jam.
